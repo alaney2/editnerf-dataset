@@ -2,7 +2,7 @@
     "focal": 1.7361110664350143,
     "frames": [
         {
-            "file_path": "train\\0002.png",
+            "file_path": "images/0002.png",
             "transform_matrix": [
                 [
                     0.9971421360969543,
@@ -31,7 +31,7 @@
             ]
         },
         {
-            "file_path": "train\\0005.png",
+            "file_path": "images/0005.png",
             "transform_matrix": [
                 [
                     -0.963151216506958,
@@ -60,7 +60,7 @@
             ]
         },
         {
-            "file_path": "train\\0008.png",
+            "file_path": "images/0008.png",
             "transform_matrix": [
                 [
                     -0.23034441471099854,
@@ -89,7 +89,7 @@
             ]
         },
         {
-            "file_path": "train\\0009.png",
+            "file_path": "images/0009.png",
             "transform_matrix": [
                 [
                     0.4337366819381714,
@@ -118,7 +118,7 @@
             ]
         },
         {
-            "file_path": "train\\0010.png",
+            "file_path": "images/0010.png",
             "transform_matrix": [
                 [
                     0.29476356506347656,
@@ -147,7 +147,7 @@
             ]
         },
         {
-            "file_path": "train\\0012.png",
+            "file_path": "images/0012.png",
             "transform_matrix": [
                 [
                     0.9983985424041748,
@@ -176,7 +176,7 @@
             ]
         },
         {
-            "file_path": "train\\0013.png",
+            "file_path": "images/0013.png",
             "transform_matrix": [
                 [
                     0.6219446063041687,
@@ -205,7 +205,7 @@
             ]
         },
         {
-            "file_path": "train\\0016.png",
+            "file_path": "images/0016.png",
             "transform_matrix": [
                 [
                     -0.13769015669822693,
@@ -234,7 +234,7 @@
             ]
         },
         {
-            "file_path": "train\\0017.png",
+            "file_path": "images/0017.png",
             "transform_matrix": [
                 [
                     0.9081823229789734,
@@ -263,7 +263,7 @@
             ]
         },
         {
-            "file_path": "train\\0019.png",
+            "file_path": "images/0019.png",
             "transform_matrix": [
                 [
                     -0.5587546825408936,
@@ -292,7 +292,7 @@
             ]
         },
         {
-            "file_path": "train\\0024.png",
+            "file_path": "images/0024.png",
             "transform_matrix": [
                 [
                     0.6983349919319153,
@@ -321,7 +321,7 @@
             ]
         },
         {
-            "file_path": "train\\0027.png",
+            "file_path": "images/0027.png",
             "transform_matrix": [
                 [
                     -0.6516295671463013,
@@ -350,7 +350,7 @@
             ]
         },
         {
-            "file_path": "train\\0029.png",
+            "file_path": "images/0029.png",
             "transform_matrix": [
                 [
                     0.24309638142585754,
@@ -379,7 +379,7 @@
             ]
         },
         {
-            "file_path": "train\\0030.png",
+            "file_path": "images/0030.png",
             "transform_matrix": [
                 [
                     -0.07707000523805618,
@@ -408,7 +408,7 @@
             ]
         },
         {
-            "file_path": "train\\0031.png",
+            "file_path": "images/0031.png",
             "transform_matrix": [
                 [
                     -0.4674954414367676,
@@ -437,7 +437,7 @@
             ]
         },
         {
-            "file_path": "train\\0032.png",
+            "file_path": "images/0032.png",
             "transform_matrix": [
                 [
                     -0.4276455044746399,
@@ -466,7 +466,7 @@
             ]
         },
         {
-            "file_path": "train\\0033.png",
+            "file_path": "images/0033.png",
             "transform_matrix": [
                 [
                     -0.1808064877986908,
@@ -495,7 +495,7 @@
             ]
         },
         {
-            "file_path": "train\\0034.png",
+            "file_path": "images/0034.png",
             "transform_matrix": [
                 [
                     -0.301206111907959,
@@ -524,7 +524,7 @@
             ]
         },
         {
-            "file_path": "train\\0035.png",
+            "file_path": "images/0035.png",
             "transform_matrix": [
                 [
                     0.8802108764648438,
@@ -553,7 +553,7 @@
             ]
         },
         {
-            "file_path": "train\\0036.png",
+            "file_path": "images/0036.png",
             "transform_matrix": [
                 [
                     0.9101178646087646,
@@ -582,7 +582,7 @@
             ]
         },
         {
-            "file_path": "train\\0038.png",
+            "file_path": "images/0038.png",
             "transform_matrix": [
                 [
                     -0.968350350856781,
@@ -611,7 +611,7 @@
             ]
         },
         {
-            "file_path": "train\\0040.png",
+            "file_path": "images/0040.png",
             "transform_matrix": [
                 [
                     -0.6798580884933472,
@@ -640,7 +640,7 @@
             ]
         },
         {
-            "file_path": "train\\0041.png",
+            "file_path": "images/0041.png",
             "transform_matrix": [
                 [
                     0.7682125568389893,
@@ -669,7 +669,7 @@
             ]
         },
         {
-            "file_path": "train\\0042.png",
+            "file_path": "images/0042.png",
             "transform_matrix": [
                 [
                     0.23986652493476868,
@@ -698,7 +698,7 @@
             ]
         },
         {
-            "file_path": "train\\0044.png",
+            "file_path": "images/0044.png",
             "transform_matrix": [
                 [
                     -0.9905690550804138,
@@ -727,7 +727,7 @@
             ]
         },
         {
-            "file_path": "train\\0047.png",
+            "file_path": "images/0047.png",
             "transform_matrix": [
                 [
                     0.2979883551597595,
@@ -756,7 +756,7 @@
             ]
         },
         {
-            "file_path": "train\\0048.png",
+            "file_path": "images/0048.png",
             "transform_matrix": [
                 [
                     -0.40798360109329224,
@@ -785,7 +785,7 @@
             ]
         },
         {
-            "file_path": "train\\0050.png",
+            "file_path": "images/0050.png",
             "transform_matrix": [
                 [
                     0.99917072057724,
@@ -814,7 +814,7 @@
             ]
         },
         {
-            "file_path": "train\\0051.png",
+            "file_path": "images/0051.png",
             "transform_matrix": [
                 [
                     0.1355815976858139,
@@ -843,7 +843,7 @@
             ]
         },
         {
-            "file_path": "train\\0052.png",
+            "file_path": "images/0052.png",
             "transform_matrix": [
                 [
                     -0.6713446974754333,
@@ -872,7 +872,7 @@
             ]
         },
         {
-            "file_path": "train\\0053.png",
+            "file_path": "images/0053.png",
             "transform_matrix": [
                 [
                     0.5163618922233582,
@@ -901,7 +901,7 @@
             ]
         },
         {
-            "file_path": "train\\0054.png",
+            "file_path": "images/0054.png",
             "transform_matrix": [
                 [
                     0.5376285314559937,
@@ -930,7 +930,7 @@
             ]
         },
         {
-            "file_path": "train\\0059.png",
+            "file_path": "images/0059.png",
             "transform_matrix": [
                 [
                     0.9347610473632812,
@@ -959,7 +959,7 @@
             ]
         },
         {
-            "file_path": "train\\0061.png",
+            "file_path": "images/0061.png",
             "transform_matrix": [
                 [
                     0.43716341257095337,
@@ -988,7 +988,7 @@
             ]
         },
         {
-            "file_path": "train\\0064.png",
+            "file_path": "images/0064.png",
             "transform_matrix": [
                 [
                     -0.5104252696037292,
@@ -1017,7 +1017,7 @@
             ]
         },
         {
-            "file_path": "train\\0065.png",
+            "file_path": "images/0065.png",
             "transform_matrix": [
                 [
                     -0.4303727149963379,
@@ -1046,7 +1046,7 @@
             ]
         },
         {
-            "file_path": "train\\0066.png",
+            "file_path": "images/0066.png",
             "transform_matrix": [
                 [
                     0.4528355002403259,
@@ -1075,7 +1075,7 @@
             ]
         },
         {
-            "file_path": "train\\0067.png",
+            "file_path": "images/0067.png",
             "transform_matrix": [
                 [
                     -0.9986302852630615,
@@ -1104,7 +1104,7 @@
             ]
         },
         {
-            "file_path": "train\\0068.png",
+            "file_path": "images/0068.png",
             "transform_matrix": [
                 [
                     0.9158501625061035,
@@ -1133,7 +1133,7 @@
             ]
         },
         {
-            "file_path": "train\\0069.png",
+            "file_path": "images/0069.png",
             "transform_matrix": [
                 [
                     0.5370504260063171,
@@ -1162,7 +1162,7 @@
             ]
         },
         {
-            "file_path": "train\\0070.png",
+            "file_path": "images/0070.png",
             "transform_matrix": [
                 [
                     0.8945353031158447,
@@ -1191,7 +1191,7 @@
             ]
         },
         {
-            "file_path": "train\\0071.png",
+            "file_path": "images/0071.png",
             "transform_matrix": [
                 [
                     0.4451603293418884,
@@ -1220,7 +1220,7 @@
             ]
         },
         {
-            "file_path": "train\\0072.png",
+            "file_path": "images/0072.png",
             "transform_matrix": [
                 [
                     0.9825038313865662,
@@ -1249,7 +1249,7 @@
             ]
         },
         {
-            "file_path": "train\\0076.png",
+            "file_path": "images/0076.png",
             "transform_matrix": [
                 [
                     0.9527595043182373,
@@ -1278,7 +1278,7 @@
             ]
         },
         {
-            "file_path": "train\\0078.png",
+            "file_path": "images/0078.png",
             "transform_matrix": [
                 [
                     -0.7914478778839111,
@@ -1307,7 +1307,7 @@
             ]
         },
         {
-            "file_path": "train\\0080.png",
+            "file_path": "images/0080.png",
             "transform_matrix": [
                 [
                     0.03731605038046837,
@@ -1336,7 +1336,7 @@
             ]
         },
         {
-            "file_path": "train\\0081.png",
+            "file_path": "images/0081.png",
             "transform_matrix": [
                 [
                     -0.7890776991844177,
@@ -1365,7 +1365,7 @@
             ]
         },
         {
-            "file_path": "train\\0082.png",
+            "file_path": "images/0082.png",
             "transform_matrix": [
                 [
                     0.024149151518940926,
@@ -1394,7 +1394,7 @@
             ]
         },
         {
-            "file_path": "train\\0083.png",
+            "file_path": "images/0083.png",
             "transform_matrix": [
                 [
                     -0.9932745695114136,
@@ -1423,7 +1423,7 @@
             ]
         },
         {
-            "file_path": "train\\0084.png",
+            "file_path": "images/0084.png",
             "transform_matrix": [
                 [
                     0.9502547979354858,
@@ -1452,7 +1452,7 @@
             ]
         },
         {
-            "file_path": "train\\0085.png",
+            "file_path": "images/0085.png",
             "transform_matrix": [
                 [
                     0.9661543965339661,
@@ -1481,7 +1481,7 @@
             ]
         },
         {
-            "file_path": "train\\0088.png",
+            "file_path": "images/0088.png",
             "transform_matrix": [
                 [
                     0.4877474904060364,
@@ -1510,7 +1510,7 @@
             ]
         },
         {
-            "file_path": "train\\0090.png",
+            "file_path": "images/0090.png",
             "transform_matrix": [
                 [
                     -0.501018226146698,
@@ -1539,7 +1539,7 @@
             ]
         },
         {
-            "file_path": "train\\0091.png",
+            "file_path": "images/0091.png",
             "transform_matrix": [
                 [
                     0.47599172592163086,
@@ -1568,7 +1568,7 @@
             ]
         },
         {
-            "file_path": "train\\0094.png",
+            "file_path": "images/0094.png",
             "transform_matrix": [
                 [
                     -0.9979625940322876,
@@ -1597,7 +1597,7 @@
             ]
         },
         {
-            "file_path": "train\\0095.png",
+            "file_path": "images/0095.png",
             "transform_matrix": [
                 [
                     0.7264073491096497,
@@ -1626,7 +1626,7 @@
             ]
         },
         {
-            "file_path": "train\\0096.png",
+            "file_path": "images/0096.png",
             "transform_matrix": [
                 [
                     0.9398919343948364,
@@ -1655,7 +1655,7 @@
             ]
         },
         {
-            "file_path": "train\\0097.png",
+            "file_path": "images/0097.png",
             "transform_matrix": [
                 [
                     0.7847400903701782,
@@ -1684,7 +1684,7 @@
             ]
         },
         {
-            "file_path": "train\\0099.png",
+            "file_path": "images/0099.png",
             "transform_matrix": [
                 [
                     -0.7927253246307373,
@@ -1713,7 +1713,7 @@
             ]
         },
         {
-            "file_path": "train\\0100.png",
+            "file_path": "images/0100.png",
             "transform_matrix": [
                 [
                     0.4880846440792084,
