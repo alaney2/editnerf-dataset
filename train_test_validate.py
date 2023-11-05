@@ -1,7 +1,7 @@
 import json
 from random import shuffle
 
-for i in range(2, 41):
+for i in range(3, 41):
 
     path = f'./plane_dataset/plane{i}'
 
